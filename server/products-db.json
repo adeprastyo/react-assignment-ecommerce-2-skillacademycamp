@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457605/item/idgoods_66_457605.jpg?width=320",
+            "name": "Tank Top Crop Rib Kerah Henley",
+            "price": 149000,
+            "category": "Women"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457328/item/idgoods_09_457328.jpg?width=320",
+            "name": "UT PlayStation Lengan Pendek",
+            "price": 199000,
+            "category": "Men"
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457012/item/idgoods_07_457012.jpg?width=320",
+            "name": "AIRism Gaun Ultra Stretch Tanpa Lengan",
+            "price": 499000,
+            "category": "Women"
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/454768/item/idgoods_63_454768.jpg?width=320",
+            "name": "Cardigan Pendek Mesh Lengan Panjang",
+            "price": 149000,
+            "category": "Women"
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/456032/item/idgoods_09_456032.jpg?width=320",
+            "name": "Celana Lurus Lipit",
+            "price": 399000,
+            "category": "Women"
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/462442/item/idgoods_00_462442.jpg?width=320",
+            "name": "UT Attack on Titan Lengan Pendek",
+            "price": 199000,
+            "category": "Men"
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/444557/item/idgoods_69_444557.jpg?width=320",
+            "name": "Jaket AirSense (Ultra Light) Serupa Katun",
+            "price": 899000,
+            "category": "Men"
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457349/item/idgoods_64_457349.jpg?width=320",
+            "name": "Cardigan Jacquard Kerah Bulat Ines de la Fressange",
+            "price": 599000,
+            "category": "Women"
+        },
+        {
+            "id": 9,
+            "imageUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/455531/item/idgoods_30_455531.jpg?width=320",
+            "name": "Celana Pendek Corduroy",
+            "price": 499000,
+            "category": "Men"
+        }
+    ]
+}
